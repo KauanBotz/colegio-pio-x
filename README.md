@@ -16,5 +16,9 @@ Este é um projeto simples de gerador de resultados aleatórios baseado no nome 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
-- CSS3
+- CSS3 (IA)
 - JavaScript
+
+## 🤖 Observação
+
+Nome do colégio (fictício), paleta de cores e CSS3 gerada por IA (Inteligência Artificial).
