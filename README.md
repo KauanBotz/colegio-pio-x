@@ -1,6 +1,6 @@
 # Colégio Pio X - Gerador de Resultados Aleatórios
 
-Este é um projeto simples de gerador de resultados aleatórios baseado no nome inserido pelo usuário. Ele foi desenvolvido com HTML, CSS e JavaScript. (Projeto para estudos)
+Este é um projeto simples de gerador de resultados aleatórios baseado no nome inserido pelo usuário. Ele foi desenvolvido com HTML, CSS e JavaScript. (Projeto para estudos) -> O objetivo do projeto é colocar em prática o meu JavaScript e relembrar alguns comandos (atualmente estudando o curso do André Iacono na Udemy).
 
 ## 📌 Funcionalidades
 
